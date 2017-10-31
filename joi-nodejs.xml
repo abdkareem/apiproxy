@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="joi-nodejs">
+    <Basepaths>/joi-nodejs</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1509431915470</CreatedAt>
+    <CreatedBy>abd.khaja@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>joi-nodejs</DisplayName>
+    <LastModifiedAt>1509432258874</LastModifiedAt>
+    <LastModifiedBy>abd.khaja@gmail.com</LastModifiedBy>
+    <Policies>
+        <Policy>JSON-Threat-Protection-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints/>
+    <validate>false</validate>
+</APIProxy>
